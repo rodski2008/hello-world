@@ -1,2 +1,3 @@
 # hello-world
-First project for refreasher programming
+First project for refresher programming
+I have to challenge myself to learn
